@@ -24,7 +24,7 @@ h2{
 }
 #hh1{
     position: absolute;
-    display: inline-block;
+    display: block;
     top: 5%;
     left: 40%;
     color: #F9D689;
@@ -32,9 +32,9 @@ h2{
 
 #p1{
     position: absolute;
-    display: inline-block;
-    top: 8%;
-    left: 68%;
+    display: block;
+    top: 9%;
+    left: 79%;
     color: #F9D689;
 }
 #p2{
